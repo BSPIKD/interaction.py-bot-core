@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" uploadOnCheckin="c9e7e9f8-cc4e-4efc-bb99-880cf6d76354" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="VPS">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="VPS" />
   </component>
 </project>
